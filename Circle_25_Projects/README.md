@@ -1,0 +1,1 @@
+This directory contains html and css practice projects for circle-25
