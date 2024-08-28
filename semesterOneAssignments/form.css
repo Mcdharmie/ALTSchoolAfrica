@@ -26,7 +26,7 @@ body {
 .form-pair {
     display: flex;
     justify-content: space-between;
-    gap: 35px; /* Space between each form-group */
+    gap: 35px; 
     margin-bottom: 15px;
 }
 
