@@ -1,13 +1,14 @@
 Web Development Project: Personal Page and Application Form
 Table of Contents
-Introduction
-Features
-Technologies Used
-Usage
-Accessibility
-Configuration
-Contributing
-License
+  Introduction
+  Features
+  Technologies Used
+  Usage
+  Accessibility
+  Configuration
+  Contributing
+  License
+  
 Introduction
 This project consists of two interconnected web pages:
 
