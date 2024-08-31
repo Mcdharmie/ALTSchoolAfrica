@@ -4,6 +4,24 @@ body {
     margin: 0;
     padding: 20px;
 }
+.head {
+    background-color:chocolate;
+    padding: 15px 0;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.head nav {
+    display: inline-block;
+    color: white;
+    margin: 0 15px;
+    font-size: 18px;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+
+}
+
 table {
     width: 80%;
     margin: 0 auto;

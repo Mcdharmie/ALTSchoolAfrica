@@ -4,6 +4,24 @@ body {
     padding: 0;
     background-color: #f8f8f8;
 }
+.head {
+    background-color:chocolate;
+    padding: 15px 0;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.head nav {
+    display: inline-block;
+    color: white;
+    margin: 0 15px;
+    font-size: 18px;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+
+}
+
 
 .container {
     display: flex;
@@ -26,7 +44,7 @@ body {
 .form-pair {
     display: flex;
     justify-content: space-between;
-    gap: 35px; 
+    gap: 35px;
     margin-bottom: 15px;
 }
 
@@ -65,6 +83,7 @@ body {
 .image-section {
     margin-bottom: 20px;
     text-align: center;
+    font-size: 50px;
 }
 
 .image-section img {
