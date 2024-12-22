@@ -28,7 +28,7 @@ and collaborators a clear view of what I can do.
 ## Setup Instructions
 
 ### Step 1: Provision the Server
-1. Log into your AWS Console and launch an EC2 instance.
+1. Log into AWS Console and launch an EC2 instance.
 2. Choose an Ubuntu 20.04 LTS AMI.
 3. Select an instance type (t2.micro for free tier).
 4. Configure network settings and security groups to allow HTTP traffic on port 80.
@@ -38,7 +38,7 @@ and collaborators a clear view of what I can do.
       Port Range: 80
       Source: Anywhere (0.0.0.0/0) for global access 
 
-5. Connect to your instance using EC2 Instance Connect
+5. Connect to instance using EC2 Instance Connect
 
 ### Step 2:
 1. Install apache web server
